@@ -1,0 +1,49 @@
+body{
+  background-color: #ffffff;
+}
+h1{
+background-color: #ff0000;
+color: #eeee00;
+}
+ol li::marker{
+color: #800000;
+}
+ol{
+  padding-right: 120px;
+  list-style-type: decimal;
+}
+li{
+  font-size: 42px;
+  font-family: Traditional Arabic, Times New Roman;
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+p{
+  font-size: 50px;
+}
+button{
+  width: 100%;
+  height: 3em;
+  font-size: 100%;
+  background-color: #000000;
+  color: #ffffff;
+}
+a{
+  width: 50%;
+}
+h4{
+  color: #66FF36;
+  background-color: rgb(4, 4, 255);
+  font-size: 50px;
+}
+table{
+  background-color: #aaaaaa;
+  width:100%;
+}
+img{
+  width: 99%;
+  height: 20%;
+}
+th{
+  width: 50%;
+}
